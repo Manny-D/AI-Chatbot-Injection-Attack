@@ -58,3 +58,11 @@ While the Interceptor will need continual training to detect new attack patterns
 ## Conclusion
 
 The rapid advancement of AI chatbots, powered by Natural Language Processing (NLP), has revolutionized digital interactions but also introduced vulnerabilities like prompt injection attacks. These attacks can manipulate chatbot responses to extract sensitive information. While security measures like system prompts and AI Interceptors can mitigate these risks, the evolving nature of attacks and chatbot technologies demands ongoing vigilance and adaptation.
+
+<br>
+
+### Related Story
+
+[Tricking a GM chatbot into selling a Chevy Tahoe for $1](https://www.upworthy.com/prankster-tricks-a-gm-dealership-chatbot-to-sell-him-a-76000-chevy-tahoe-for-1-rp)
+
+![$1 Tahoe](https://github.com/Manny-D/AI-Chatbot-Injection-Attack/assets/99146530/4e026a55-99c6-4600-af6f-14371eb3632c)
